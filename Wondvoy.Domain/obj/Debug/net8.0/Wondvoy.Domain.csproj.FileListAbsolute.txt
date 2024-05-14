@@ -1,0 +1,11 @@
+C:\Users\DELL\source\repos\Wondvoy\Wondvoy.Domain\bin\Debug\net8.0\Wondvoy.Domain.deps.json
+C:\Users\DELL\source\repos\Wondvoy\Wondvoy.Domain\bin\Debug\net8.0\Wondvoy.Domain.dll
+C:\Users\DELL\source\repos\Wondvoy\Wondvoy.Domain\bin\Debug\net8.0\Wondvoy.Domain.pdb
+C:\Users\DELL\source\repos\Wondvoy\Wondvoy.Domain\obj\Debug\net8.0\Wondvoy.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\Wondvoy\Wondvoy.Domain\obj\Debug\net8.0\Wondvoy.Domain.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Wondvoy\Wondvoy.Domain\obj\Debug\net8.0\Wondvoy.Domain.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Wondvoy\Wondvoy.Domain\obj\Debug\net8.0\Wondvoy.Domain.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Wondvoy\Wondvoy.Domain\obj\Debug\net8.0\Wondvoy.Domain.dll
+C:\Users\DELL\source\repos\Wondvoy\Wondvoy.Domain\obj\Debug\net8.0\refint\Wondvoy.Domain.dll
+C:\Users\DELL\source\repos\Wondvoy\Wondvoy.Domain\obj\Debug\net8.0\Wondvoy.Domain.pdb
+C:\Users\DELL\source\repos\Wondvoy\Wondvoy.Domain\obj\Debug\net8.0\ref\Wondvoy.Domain.dll

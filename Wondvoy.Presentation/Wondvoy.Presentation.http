@@ -1,0 +1,6 @@
+@Wondvoy.Presentation_HostAddress = http://localhost:5188
+
+GET {{Wondvoy.Presentation_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
