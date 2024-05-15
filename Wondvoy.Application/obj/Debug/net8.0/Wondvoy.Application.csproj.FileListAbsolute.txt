@@ -1,0 +1,16 @@
+C:\Users\DELL\source\repos\Wondvoy\Wondvoy.Application\bin\Debug\net8.0\Wondvoy.Application.deps.json
+C:\Users\DELL\source\repos\Wondvoy\Wondvoy.Application\bin\Debug\net8.0\Wondvoy.Application.dll
+C:\Users\DELL\source\repos\Wondvoy\Wondvoy.Application\bin\Debug\net8.0\Wondvoy.Application.pdb
+C:\Users\DELL\source\repos\Wondvoy\Wondvoy.Application\bin\Debug\net8.0\Wondvoy.Domain.dll
+C:\Users\DELL\source\repos\Wondvoy\Wondvoy.Application\bin\Debug\net8.0\Wondvoy.Domain.pdb
+C:\Users\DELL\source\repos\Wondvoy\Wondvoy.Application\obj\Debug\net8.0\Wondvoy.Application.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Wondvoy\Wondvoy.Application\obj\Debug\net8.0\Wondvoy.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\Wondvoy\Wondvoy.Application\obj\Debug\net8.0\Wondvoy.Application.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Wondvoy\Wondvoy.Application\obj\Debug\net8.0\Wondvoy.Application.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Wondvoy\Wondvoy.Application\obj\Debug\net8.0\Wondvoy.Application.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Wondvoy\Wondvoy.Application\obj\Debug\net8.0\Wondvoy.Application.sourcelink.json
+C:\Users\DELL\source\repos\Wondvoy\Wondvoy.Application\obj\Debug\net8.0\Wondvoy..B670E415.Up2Date
+C:\Users\DELL\source\repos\Wondvoy\Wondvoy.Application\obj\Debug\net8.0\Wondvoy.Application.dll
+C:\Users\DELL\source\repos\Wondvoy\Wondvoy.Application\obj\Debug\net8.0\refint\Wondvoy.Application.dll
+C:\Users\DELL\source\repos\Wondvoy\Wondvoy.Application\obj\Debug\net8.0\Wondvoy.Application.pdb
+C:\Users\DELL\source\repos\Wondvoy\Wondvoy.Application\obj\Debug\net8.0\ref\Wondvoy.Application.dll

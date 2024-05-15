@@ -5,6 +5,7 @@ C:\Users\DELL\source\repos\Wondvoy\Wondvoy.Domain\obj\Debug\net8.0\Wondvoy.Domai
 C:\Users\DELL\source\repos\Wondvoy\Wondvoy.Domain\obj\Debug\net8.0\Wondvoy.Domain.AssemblyInfoInputs.cache
 C:\Users\DELL\source\repos\Wondvoy\Wondvoy.Domain\obj\Debug\net8.0\Wondvoy.Domain.AssemblyInfo.cs
 C:\Users\DELL\source\repos\Wondvoy\Wondvoy.Domain\obj\Debug\net8.0\Wondvoy.Domain.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Wondvoy\Wondvoy.Domain\obj\Debug\net8.0\Wondvoy.Domain.sourcelink.json
 C:\Users\DELL\source\repos\Wondvoy\Wondvoy.Domain\obj\Debug\net8.0\Wondvoy.Domain.dll
 C:\Users\DELL\source\repos\Wondvoy\Wondvoy.Domain\obj\Debug\net8.0\refint\Wondvoy.Domain.dll
 C:\Users\DELL\source\repos\Wondvoy\Wondvoy.Domain\obj\Debug\net8.0\Wondvoy.Domain.pdb
